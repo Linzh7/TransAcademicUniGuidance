@@ -1,4 +1,8 @@
 # TransAcademicUniGuidance
+本站已经迁移至 [RLE.wiki](https://RLE.wiki)，原网站将备份存档，不再更新。
+
+---
+
 <p align="center">
 <a href="https://uniguide.transacademic.org/">Website</a>｜<a href="https://uniguide.transacademic.org/zh-hans/">网站</a>｜<a href="https://uniguide.transacademic.org/zh-hant/">網站</a>
 </p>
